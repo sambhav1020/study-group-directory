@@ -1,5 +1,5 @@
 # freeCodeCamp Study Group Directory
-
+This is fun.
 This simple website is a catalog of all  the freeCodeCamp study groups around the world (that we know about).
 This is fun.
 If the user allows location access the groups closest to your browser location are displayed at the top of the page. Alternatively, you can search for groups by place name.
